@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: go-web-app
-          image: jeetkansagra07/go-web-app:16513899341
+          image: jeetkansagra07/ultimate-cicd:25
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
